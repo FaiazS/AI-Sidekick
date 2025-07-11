@@ -1,0 +1,19 @@
+# Core orchestration and agent logic
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-experimental
+
+# Browser automation
+playwright
+
+# Interface tools
+gradio
+
+# Utilities and structure
+pydantic
+nest_asyncio
+ipython
